@@ -1,0 +1,11 @@
+streamlit
+langchain
+langchain-core
+langchain-openai
+langchain-community
+langchain-google-genai
+python-dotenv
+httpx
+tavily-python
+trafilatura
+duckduckgo-search
